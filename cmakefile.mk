@@ -1,8 +1,8 @@
 
 
-CC      = gcc
+CC = gcc
 CFLAGS  = -g
-RM      = rm -f
+RM = rm -f
 
 
 default: all
